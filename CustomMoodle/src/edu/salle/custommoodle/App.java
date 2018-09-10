@@ -50,6 +50,7 @@ public class App {
         StudentWindow window = new StudentWindow();
         window.setVisible(true);
         
+        
     }
     
 }
